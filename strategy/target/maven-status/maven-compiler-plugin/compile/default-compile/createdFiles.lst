@@ -1,0 +1,6 @@
+br\inatel\joao\Main.class
+br\inatel\joao\impl\HeapSort.class
+br\inatel\joao\impl\InsertionSort.class
+br\inatel\joao\ISortAlgorithm.class
+br\inatel\joao\impl\MergeSort.class
+br\inatel\joao\OrdenarDados.class
